@@ -15,3 +15,8 @@ let youtuber = {
     plan() {},
     uploadVideo() {}
 };
+// console.log();
+
+// window.alert(); // window.は省略可能
+
+// window.document.getElementById()
